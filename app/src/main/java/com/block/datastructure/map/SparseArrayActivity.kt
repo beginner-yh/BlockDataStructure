@@ -1,9 +1,9 @@
-package com.block.datastructure
+package com.block.datastructure.map
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 import android.util.SparseArray
+import com.block.datastructure.R
 
 /**
  * 稀松数组

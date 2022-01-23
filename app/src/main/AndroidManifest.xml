@@ -10,7 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BlockDataStructure">
         <activity
-            android:name=".SparseArrayActivity"
+            android:name=".map.TreeMapActivity"
+            android:exported="true" />
+        <activity
+            android:name=".map.HashTableActivity"
+            android:exported="true" />
+        <activity
+            android:name=".map.HashMapActivity"
+            android:exported="true" />
+        <activity
+            android:name=".map.SparseArrayActivity"
             android:exported="true" />
         <activity
             android:name=".MainActivity"
